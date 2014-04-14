@@ -7,5 +7,4 @@ Unity-Speech
 
 テキストフィールドに入力したテキストを読み上げます。
 
-日本語の音声の設定方法はこちらを参照下さい。
-[http://d.hatena.ne.jp/nakamura001/20140414/1397481093](http://d.hatena.ne.jp/nakamura001/20140414/1397481093)
+日本語の音声の設定方法は[こちら](http://d.hatena.ne.jp/nakamura001/20140414/1397481093)を参照下さい。
